@@ -67,7 +67,7 @@
 ---  
 
 ## **結構**
-BladderCancer_Survival_Analysis    
+Climate-and-HealthRisk    
 │── README.md  
 │── HealthRisk_main.pdf # 書面報告  
 │── HealthRisk_code.ipynb # 程式碼  
